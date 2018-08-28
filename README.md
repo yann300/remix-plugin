@@ -10,7 +10,7 @@ Serve the `src` folder through a web server `http-server .`
 Go in Remix ( https://remix.ethereum.org / https://remix-alpha.ethereum.org ) / settings tab, under the `Plugin` section paste the following declaration:
 
 {
-    "title": "<name of plugin>",
+    "title": "name_of_plugin>",
     "url": "http://127.0.0.1:<port>"
 }
 
