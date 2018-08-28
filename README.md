@@ -7,7 +7,7 @@ git clone https://github.com/ethereum/remix-ide
 
 Serve the `src` folder through a web server `http-server .`
 
-Go in Remix / settings tab, under the `Plugin` section paste the following declaration:
+Go in Remix ( https://remix.ethereum.org / https://remix-alpha.ethereum.org ) / settings tab, under the `Plugin` section paste the following declaration:
 
 {
     "title": "<name of plugin>",
